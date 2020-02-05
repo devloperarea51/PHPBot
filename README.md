@@ -1,4 +1,5 @@
 # PHPBot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devloperarea51/PHPBot)
 
 At some point I decided I wanted to make a Telegram bot.
 I saw the API and thought 
